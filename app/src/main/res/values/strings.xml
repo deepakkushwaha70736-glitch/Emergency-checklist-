@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Emergency Control</string>
+    <string name="header_title">🚨 Emergency Control Room</string>
+    <string name="header_subtitle">Hathras Control &amp; Response Center</string>
+</resources>

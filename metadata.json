@@ -1,0 +1,6 @@
+{
+  "name": "Emergency Control",
+  "description": "Emergency Control Room checklist and response system with auditory alerts, celebratory rewards, and officer completion tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
